@@ -50,6 +50,6 @@ Board View After Few Rounds
 
 ## Credits
 * Jakub Ossowski ([GitHub](https://github.com/bilevcik))
-* Miłosz Kutyła ([GitHub]())
+* Miłosz Kutyła ([GitHub](https://github.com/mkutyla))
 * Aleksandra Michalska
 * Patryk Ogonowski
